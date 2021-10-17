@@ -1,4 +1,4 @@
 
-/backend/.idea
 /.vscode
-/backend/venv
+/venv
+/.idea
